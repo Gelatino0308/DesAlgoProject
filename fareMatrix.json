@@ -1,0 +1,50 @@
+{
+    "Fernando Poe Jr./Roosevelt": {
+        "systemLine": "LRT 1",
+
+        "Balintawak (LRT1)": [15, 10]
+    },
+
+    "Balintawak (LRT1)": {
+        "systemLine": "LRT 1",
+
+        "Fernando Poe Jr./Roosevelt": [15, 10]
+    },
+
+    "Yamaha Monumento": {
+        "systemLine": "LRT 1",
+
+        "5th Avenue": 15,
+        "R-papa": 16,
+        "Doroteo Jose": [20, 16]
+    },
+
+    "R-papa": {
+        "systemLine": "LRT 1",
+        
+        "Yamaha Monumento": 16
+    },
+
+
+
+    "Doroteo Jose": {
+        "systemLine": "LRT 1",
+
+        "Yamaha Monumento": [20, 16]
+    },
+
+
+
+    
+    "Recto": {
+        "systemLine": "LRT 2",
+
+        "Pureza": [20, 16]
+    },
+
+    "Pureza": {
+        "systemLine": "LRT 2",
+
+        "Recto": [20, 16]
+    }
+}
